@@ -1,2 +1,2 @@
 # projects
-Welcome to my project repo.
+Welcome to my projects.
